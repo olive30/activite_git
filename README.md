@@ -1,2 +1,2 @@
-# activite_git
+ premiere etape du projet activite_git
 projet1
